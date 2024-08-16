@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kalideres/static/css/main.2268b55d.css",
+    "main.js": "/kalideres/static/js/main.c21e0c15.js",
+    "static/js/453.b2a200db.chunk.js": "/kalideres/static/js/453.b2a200db.chunk.js",
+    "static/media/desaKalideresCover.jpeg": "/kalideres/static/media/desaKalideresCover.fbd251721c39e510f447.jpeg",
+    "static/media/Stargazing.jpeg": "/kalideres/static/media/Stargazing.a5ce1ac566cfa099bc65.jpeg",
+    "static/media/berita2.jpg": "/kalideres/static/media/berita2.d8d3676f5492f696e79c.jpg",
+    "static/media/background-hero.jpg": "/kalideres/static/media/background-hero.ed4fd7eb3265946e3378.jpg",
+    "static/media/BalaiDesa.png": "/kalideres/static/media/BalaiDesa.df30ae59ecb4390fe3de.png",
+    "static/media/berita1.jpg": "/kalideres/static/media/berita1.d368875ef5e103c6370e.jpg",
+    "static/media/berita3.jpeg": "/kalideres/static/media/berita3.9fee6df75ca915c59f0f.jpeg",
+    "static/media/istockphoto-1409329028-612x612.jpg": "/kalideres/static/media/istockphoto-1409329028-612x612.cc8c46612bf47dd39849.jpg",
+    "static/media/logo.svg": "/kalideres/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kalideres/index.html",
+    "main.2268b55d.css.map": "/kalideres/static/css/main.2268b55d.css.map",
+    "main.c21e0c15.js.map": "/kalideres/static/js/main.c21e0c15.js.map",
+    "453.b2a200db.chunk.js.map": "/kalideres/static/js/453.b2a200db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2268b55d.css",
+    "static/js/main.c21e0c15.js"
+  ]
+}
